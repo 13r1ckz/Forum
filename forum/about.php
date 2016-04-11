@@ -22,9 +22,7 @@ include "default.php";
 		</h1>
 		<p>
 			<strong>
-				Is een project voor informatica, met als hoofddoel een functioneel forum. Het is de bedoeling dat gebruikers met een aangemaakt account op de forum threads kunnen 
-				posten en daarop kunnen reageren, met niet alleen functionaliteit, maar ook gebruikersvriendelijkheid in gedachten. Als team hebben wij veel tijd in dit 
-				project gestopt, en hebben daar veel plezier in gehad.
+				text just random text
 			</strong>
 		</p>
 	</div>
@@ -32,8 +30,7 @@ include "default.php";
 	<table class="about table segment menu">
 		<tr><td class="thead" colspan="2"><strong>Het team en hun rol in <? echo $brand ?></strong></td></tr>
 		<tr><td class="tcat"><strong>Naam</strong></td><td class="tcat right aligned"><strong>Rol</strong></td></tr>
-		<tr><td><strong>Gerjon Eilander</strong></td><td class="right aligned">Admin stuff</td></tr>
-		<tr><td><strong>Lucas Kruger</strong></td><td class="right aligned">Forum en thema</td></tr>
+		<tr><td><strong>dev name</strong></td><td class="right aligned">thing he did</td></tr>
 	</table>
 	
 	<table class="about table segment menu">
