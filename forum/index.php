@@ -1,0 +1,3 @@
+<?
+include "forum.php";
+?>
